@@ -1,5 +1,7 @@
 #Auctono AI car marketplace
 # Full Stack AI Car Marketplace with Next JS, Supabase, Tailwind, Prisma, ArcJet, Shadcn UI 
+#Find the project video record here
+https://drive.google.com/file/d/1smWB76_wtpSVAUOEf7f_AqhuBJOqrA82/view?usp=drive_link
 
 ### Make sure to create a `.env` file with following variables -
 
